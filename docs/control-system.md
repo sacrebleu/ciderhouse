@@ -1,4 +1,8 @@
-# A rudimentary control-system for home brewing
+---
+title: "Rudimentary Control System"
+---
+
+#### A rudimentary control-system for home brewing
 
 When I brewed beer some fifteen or more years ago, I was working with far more rudimentary tools than are available now.  Microcontrolers were strange things that ran custom code (if anything) and their utility
 was obscure to a luddite like me.  I have some basic electronics knowledge but still don't really understand things like op-amps and the other modern 
