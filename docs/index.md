@@ -22,5 +22,6 @@ My daytime job is SRE, so I decided to SRE the ~~censored~~ out of this.
 
 #### Project Progress
 
-* [Initial discovery work](./cider.md)
-* [Design of the Control Circuit](./control.md)
+* [Initial discovery work](./cider)
+* [Design of the Control Circuit](./control-system)
+* [Bottling Concerns](./bottling)
